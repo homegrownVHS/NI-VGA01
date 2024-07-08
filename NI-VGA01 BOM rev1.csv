@@ -1,0 +1,31 @@
+Line Item,Quantity,Reference Designators,Manufacturer,Manufacturer P/N,Vendor,VPN,Description,Value,Note
+1,3,1n,Vishay,K102M15X7RF53L2,Mouser,594-K102M15X7RF53L2,Multilayer Ceramic Capacitors MLCC - Leaded 1000pF 50volts 20% X7R 2.5mm LS,1nF,
+2,3,1u,Panasonic,ECA-2GM010B,Mouser,667-ECA-2GM010B,Aluminum Electrolytic Capacitors - Radial Leaded Al Lytic Cap 85C Radial M Series,1u,
+3,3,10u,Panasonic,ECA-2GM100B,Mouser,667-ECA-2GM100B,,10u,
+4,3,470R,KOA Speer,CF1/4CT52R471J,Mouser,660-CF1/4CT52R471J,Carbon Film Resistors - Through Hole 470 ohm 5%,470R,
+5,3,10k,KOA Speer,CF1/4CT52R103J,Mouser,660-CF1/4CT52R103J,Carbon Film Resistors - Through Hole 10K ohm 5%,10k,
+6,3,"RED, GREEN, BLUE",ALPHA,RV16AF-4M-17K-B500-EV,Tayda,A-4946,500 OHM LINEAR TAPER POTENTIOMETER SPLINE SHAFT PCB MOUNT,500R,Any pot value with same footprint is suitable
+7,3,Amp,ALPHA,RV09AF-40-20K-B10K,Tayda,A-1850,10K OHM LINEAR TAPER POTENTIOMETER ROUND KNURLED PLASTIC SHAFT PCB 9MM,10k,
+8,3,Rate,ALPHA,RV09AF-40-20K-B100K,Tayda,A-1851,100K OHM LINEAR TAPER POTENTIOMETER ROUND KNURLED PLASTIC SHAFT PCB 9MM,100k,
+9,7,"(OFF ON) x3, (LO HI) x3, Feedback",E-Switch,EG1271,Mouser,612-EG1271,Slide Switches PC MNT SLIDE SPDT,SPDT,
+10,3,Sync,C&K,SS13D16VG4PA,Mouser,611-SS-13D16-VG4PA,Slide Switches SP3T 0.3 Amp at 30 V,SP3T,
+11,11,"^ x2, v x2, > x2, < x2, MENU x2, ZOOM",CUI Devices,TS02-66-70-BK-260-LCR-D,Mouser,179-TS026670BK260LCR,"Tactile Switches 6 x 6 mm, 7 mm Act Height, 260 gf, Black, Long Crimped, Through Hole, SPST,",SP1T,
+12,2,,GTK,14 pin DIP IC Socket,Tayda,A-004,14 PIN DIP IC SOCKET ADAPTOR SOLDER TYPE,14pinDIP,
+13,1,U7,Texas Instruments,CD40106BEE4,Mouser,595-CD40106BEE4,Inverters Hex Schmitt Trigger,40106,
+14,1,U1,Texas Instruments,CD4069UBE,Mouser,595-CD4069UBE,Inverters Hex,4069,
+15,2,,CUI Devices,RCJ-024,Mouser,490-RCJ-024,RCA Phono Connectors RCA Connectors,,
+16,2,"J1 (1x8), J2 (1x8), J5 (1x12), J6 (1x10)",GTK,40 Pin Header Strip,Tayda,A-197,40 PIN 2.54MM SINGLE ROW PIN HEADER STRIP,,"Total 38 headers required, may purchase 2x(1x8), (1x10), (1x12), or 1x40 and cut"
+17,1,,Tayda Electronics,TYA-2375,Tayda,A-2375,PREMIUM JUMPER WIRES FEMALE / FEMALE 300MM PACK OF 40,,"Total 38 jumpers required, single 40 pack will suffice"
+18,8,,Tayda Electronics,Standoff Spacer M3x10mm Female Silver,Tayda,A-1242,BRASS STANDOFF SPACER SILVER SCREW HEX FEMALE M3X10MM,Standoffs,
+19,20,,Tayda Electronics,M3 Screw 3x6mm,Tayda,A-1250,M3 STEEL SCREW CROSS ROUND HEAD M3X6MM,M3,
+20,1,,TAIWAN,1009 B/R,Tayda,A-5476,Black Knob Red Top 15x15mm Shaft Diameter 6.00mm Split Shaft,Red,
+21,1,,TAIWAN,1009 B/G,Tayda,A-5480,Black Knob Green Top 15x15mm Shaft Diameter 6.00mm Split Shaft,Green,
+22,1,,TAIWAN,1009 B/B,Tayda,A-5478,Black Knob Blue Top 15x15mm Shaft Diameter 6.00mm Split Shaft,Blue,
+23,6,,Tayda Electronics,,Tayda,A-4200,BLACK PLASTIC KNOB WITH GREY POINTER,Grey,
+24,1,(GND 5V),TAIWAN,BHD16PHZT,Tayda,A-2956,16 PIN BOX HEADER CONNECTOR 2.54MM 2*8PIN,,Eurorack version only
+25,1,,homegrown visuals,NI-VGA01,homegrown visuals,,NI-VGA01 PCB,,
+26,1,,homegrown visuals,NI-VGA01 enclosure,homegrown visuals,,NI-VGA01 enclosure,,Standalone version only
+27,1,,MAKETHEONE,B081SBNJ58Ê,Amazon,,"RCA to VGA Adapter, Composite AV S-Video RCA Input to VGA Female Output Converter, Transfer Video Graphic Signal from CCTV PC Laptop DVD DVR VCR TVBox to VGA Monitor Projector Computer",CVB2VGA,https://www.amazon.com/Composite-Converter-Transfer-Projector-Computer/dp/B081SBNJ58/ref=sr_1_3?dib=eyJ2IjoiMSJ9.hOuOawaKIVkSccdWlMRaVMswpp4_FRsprzPzZI6sk1_XCquxf6u745-K8ijJjFnM3F-WzFZmGOJcWhcjadxvA-tRF_I69cK1WKs3upaj64a4OLwwFnyHo365aDmFgc_Ld0wPc-wFNUEG2rPux6eYCfjFZHceVE82aBYVfcO6Q0RiokEBUenGew9gAEo7TU7siahbwXhnGmTjy9dwOpzLj2V_mj4hwihH-j6QIMpwLGw.LLWFHW9tdI4T3G8t5CEyqy4fLpa3KtxcIUcyVO6jHGs&dib_tag=se&keywords=composite+video+to+vga&qid=1720446130&sr=8-3
+28,1,,GINTOOYUN,B08DCNBZG2Ê,Amazon,,"GINTOOYUN VGA to RCA Adapter,Composite VGA to VIDEO,S-VIDEO Converter,for HDTV, Monitors, Laptop, Desktop, PC.",VGA2CVB,https://www.amazon.com/Adapter-Composite-S-Video-Converter-Monitors/dp/B08DCNBZG2/ref=sr_1_1_sspa?crid=VOY4DCC79LFV&dib=eyJ2IjoiMSJ9.0Py_7-TgIKFWKBv0XxCnrZVKfaDbYr3x8UzfEQjfpbRkjn-kA8F8-e20CY2MQUifFHp1acoF4oToexPhUzFms7sbAMQ-ppltl_BjpxL6K0svQoak0uTvPC6o7SlR0ooLwpkBlvVgKKi8wh9-fjFkvpbEQNDNaAM7FfmgyzlpDx4y0Nr7CmAELydl_8u4eKxJuS7zeKcdny_-T7bP3wbPklREMKZm-IQw8udtKCTSsnY.HAinUI19zFzPjsBu-SeoXvqD3Inr2G7ds3BpprfrhHk&dib_tag=se&keywords=vga+to+composite&qid=1720446230&sprefix=vga+to+composit%2Caps%2C114&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1
+29,1,,WEALTH METAL,DC Power Bulkhead Jack 2.1mm,Tayda,A-844,DC POWER JACK 2.1MM PANEL MOUNT BULKHEAD,,Standalone version only
+30,1,,E-Switch,RRG31132200,Mouser,612-RRG31132200,"Rocker Switches Rocker, SPST, Off-On, Panel Mount, Snap-In, White",,Standalone version only
