@@ -14,7 +14,7 @@ Line Item,Quantity,Reference Designators,Manufacturer,Manufacturer P/N,Vendor,VP
 13,1,U7,Texas Instruments,CD40106BEE4,Mouser,595-CD40106BEE4,Inverters Hex Schmitt Trigger,40106,
 14,1,U1,Texas Instruments,CD4069UBE,Mouser,595-CD4069UBE,Inverters Hex,4069,
 15,2,,CUI Devices,RCJ-024,Mouser,490-RCJ-024,RCA Phono Connectors RCA Connectors,,
-16,2,"J1 (1x8), J2 (1x8), J5 (1x12), J6 (1x10)",GTK,40 Pin Header Strip,Tayda,A-197,40 PIN 2.54MM SINGLE ROW PIN HEADER STRIP,,"Total 38 headers required, may purchase 2x(1x8), (1x10), (1x12), or 1x40 and cut"
+16,1,"J1 (1x8), J2 (1x8), J5 (1x12), J6 (1x10)",GTK,40 Pin Header Strip,Tayda,A-197,40 PIN 2.54MM SINGLE ROW PIN HEADER STRIP,,"Total 38 headers required, may purchase 2x(1x8), (1x10), (1x12), or 1x40 and cut"
 17,1,,Tayda Electronics,TYA-2375,Tayda,A-2375,PREMIUM JUMPER WIRES FEMALE / FEMALE 300MM PACK OF 40,,"Total 38 jumpers required, single 40 pack will suffice"
 18,8,,Tayda Electronics,Standoff Spacer M3x10mm Female Silver,Tayda,A-1242,BRASS STANDOFF SPACER SILVER SCREW HEX FEMALE M3X10MM,Standoffs,
 19,20,,Tayda Electronics,M3 Screw 3x6mm,Tayda,A-1250,M3 STEEL SCREW CROSS ROUND HEAD M3X6MM,M3,
